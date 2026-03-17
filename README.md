@@ -2,36 +2,37 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 
 <link href="CSS%20for%20GP.css" rel="stylesheet" type="text/css" />
 </head>
 
-<h1><table style="width: 100%">
-	<tr>
-		<td style="width: 380px" class="auto-style8">
-		<a class="auto-style11" href="Case.html"><span class="auto-style9">Read 
-		up on a case</span></a></td>
-		<td class="auto-style8">
-		<a class="auto-style11" href="Effects%20+%20Pubic%20opinion%20on%20the%20matter.html">
-		<span class="auto-style9">Some effects and public view</span></a></td>
-		<td style="width: 500px" class="auto-style8"> 
-		<a class="auto-style11" href="Conclusion%20+%20References.html">
-		<span class="auto-style9">Conclusion(Brief overview + References)</span></a></td>
-	</tr>
-</table>
-<h2>Invisible Childhoods: The Impact of Illegal Immigration on Children</h2>
-
-<h3>Illegal immigration is a global issue that affects many families. While 
-often discussed in terms of laws and borders, the impact on children is 
-often overlooked. This website aims to raise awareness of the challenges 
-faced by children affected by illegal immigration.</h3>
-
-<h3><span class="auto-style6">Some important defintions to know:
-</span>
-<br class="auto-style6"/> <span class="auto-style6">Immigrants-People who move from one country to live in another.
-</span>
-<br class="auto-style6"/> <span class="auto-style6">Illegal immigrants-Immigrants who do not possess valid entry or 
-immigration documents.
-</span>
+<h2><u><strong>Effects</strong></u></h2>
+<h3>• 2,196 children were being held in immigration depots as of August 31, 2025.
+<br/>• Undocumented children may be detained in overcrowded facilities and 
+separated from their parents.
+<br/>• Lack of birth certificates or legal documents can result in statelessness.
+<br/>• High risk of exploitation, including child labour and abuse.
+<br/>• Children traveling without guardians are among the most vulnerable to exploitation.
+<br/>• Immigration raids increase fear and instability for families.
+<br/>• The absence of a clear legal framework leaves undocumented children with 
+very limited rights.
+<br/>• Malaysia has the 3rd largest reported stateless population in Southeast Asia.
+<br/>• With over 115,000 of these people recorded by UNHCR in 2022, many living in Sabah.
 </h3>
+
+<h2><u><strong>Effects on Children - Detention conditions</strong></u></h2>
+<h3>• Children are detained with adults because of the lack of child-only facilities/centres.
+<br/>• Limited access to healthcare (doctors/medicine), education (school), and recreational activities (entertainment).
+<br/>• Overcrowded, poor hygiene standards, and not enough nutrition (food) for growth.
+<br/>• Exposed to both physical and psychological harm at a young age.
+<br/> In summary, these conditions negatively affect children’s overall 
+development.
+</h3>
+
+<h2 class="auto-style1">Public opinion</h2>
+<h3>Public opinion on Malaysia’s handling of illegal immigration is divided. 
+Some prioritise national security and border control, while others emphasise 
+human rights and the protection of children. This highlights the complexity of 
+the issue.</h3>
+
+</html>

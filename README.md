@@ -3,35 +3,35 @@
 
 <head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Conclusion + References</title>
+<style type="text/css">
+.auto-style1 {
+	text-decoration: underline;
+}
 
-<link href="CSS%20for%20GP.css" rel="stylesheet" type="text/css" />
-</head>
+.Important words {
+	color: #80114A;
+}
 
-<h1><table style="width: 100%">
-	<tr>
-		<td style="width: 380px" class="auto-style8">
-		<a class="auto-style11" href="Case.html"><span class="auto-style9">Read 
-		up on a case</span></a></td>
-		<td class="auto-style8">
-		<a class="auto-style11" href="Effects%20+%20Pubic%20opinion%20on%20the%20matter.html">
-		<span class="auto-style9">Some effects and public view</span></a></td>
-		<td style="width: 500px" class="auto-style8"> 
-		<a class="auto-style11" href="Conclusion%20+%20References.html">
-		<span class="auto-style9">Conclusion(Brief overview + References)</span></a></td>
-	</tr>
-</table>
-<h2>Invisible Childhoods: The Impact of Illegal Immigration on Children</h2>
-
-<h3>Illegal immigration is a global issue that affects many families. While 
-often discussed in terms of laws and borders, the impact on children is 
-often overlooked. This website aims to raise awareness of the challenges 
-faced by children affected by illegal immigration.</h3>
-
-<h3><span class="auto-style6">Some important defintions to know:
-</span>
-<br class="auto-style6"/> <span class="auto-style6">Immigrants-People who move from one country to live in another.
-</span>
-<br class="auto-style6"/> <span class="auto-style6">Illegal immigrants-Immigrants who do not possess valid entry or 
-immigration documents.
-</span>
-</h3>
+</style>
+	<link href="CSS%20for%20GP.css" rel="stylesheet" type="text/css" />
+	</head>	
+	<body>
+	<h2>Conclusion</h2>
+	<h3>Illegal immigration has serious and often overlooked consequences for children.
+	Many face barriers to education, healthcare, and legal recognition, while others experience fear, instability, and unsafe living conditions.
+	<br/>
+	<br/>By understanding these challenges, society can develop greater empathy and work towards policies and support systems that protect the rights and well-being of vulnerable children.</h3>
+	</body>
+	<h2>References</h2>
+	<h3>• Al Jazeera. Stateless children in Sabah live in fear of arrest.
+	<br/>• UNICEF. Children affected by migration. https://www.unicef.org
+	<br/>• UNHCR. Statelessness and children. https://www.unhcr.org
+	<br/>• SUHAKAM. Human rights and immigration detention in Malaysia.
+	<br/>• Human Rights Watch. Immigration detention of children in Malaysia. https://www.hrw.org
+	<br/>• International Organization for Migration (IOM). https://www.iom.int</h3>
+	<h2>Why awareness matters?</h2>
+	<h3>• Helps reduce stigma (a mark of disgrace associated with a particular circumstance, quality, or person)
+	<br/>• Encourages humane policy discussion
+	<br/>• Protects children’s rights </h3>
+	</html>

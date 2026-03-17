@@ -3,18 +3,6 @@
 
 <head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<title>Case and how to help those in need</title>
-
-<style type="text/css">
-.Important words {
-	color: #80114A;
-}
-
-.auto-style1 {
-	margin-right: 69px;
-}
-
-</style>
 
 <link href="CSS%20for%20GP.css" rel="stylesheet" type="text/css" />
 </head>

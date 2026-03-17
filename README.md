@@ -3,29 +3,9 @@
 
 <head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<title>Home page</title>
-<style type="text/css">
 
-.auto-style6 {
-	color: #000000;
-}
-
-.auto-style8 {
-	background-color: #D3D3D3;
-	color: #C76D9D;
-}
-.auto-style9 {
-	color: #C76D9D;
-}
-.auto-style11 {
-	text-decoration: none;
-}
-
-</style>
 <link href="CSS%20for%20GP.css" rel="stylesheet" type="text/css" />
 </head>
-
-
 
 <h1><table style="width: 100%">
 	<tr>

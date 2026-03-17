@@ -3,17 +3,6 @@
 
 <head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<title>Conclusion + References</title>
-<style type="text/css">
-.auto-style1 {
-	text-decoration: underline;
-}
-
-.Important words {
-	color: #80114A;
-}
-
-</style>
 	<link href="CSS%20for%20GP.css" rel="stylesheet" type="text/css" />
 	</head>	
 	<body>
